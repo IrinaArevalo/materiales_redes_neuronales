@@ -20,6 +20,9 @@ Licencia: Creative Commons BY-NC-SA - se permite el uso, la copia y la adaptaci√
 
 
 **Contacto**
+
 Irina Ar√©valo Barco, UPM
+
 irina.arevalo@upm.es
+
 https://irinaarevalo.github.io 
