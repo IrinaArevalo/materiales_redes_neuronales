@@ -17,3 +17,9 @@ Estos materiales cubren la introducción a Redes Neuronales con cierto formalism
 * (Deseable pero no obligatorio) Un curso introductorio de Aprendizaje Automático/Machine Learning
 
 Licencia: Creative Commons BY-NC-SA - se permite el uso, la copia y la adaptación siempre que se dé crédito (BY), no se utilice con fines comerciales (NC) y se compartan las versiones derivadas bajo la misma licencia (SA).
+
+
+**Contacto**
+Irina Arévalo Barco, UPM
+irina.arevalo@upm.es
+https://irinaarevalo.github.io 
